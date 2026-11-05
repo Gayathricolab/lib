@@ -121,3 +121,5 @@ Please share the files inside the `lib` folder, especially `main.dart`. Then I c
 | Team Leader | 248x1a42f8 | Project setup, GitHub repository management, quiz functionality, API integration, Provider implementation testing, and Pull Request reviews |
 | Member 1 | 248x1a42i1 | UI improvements, app theme and branding, Manage Questions functionality, and GP4 form validation |
 | Member 2 | 248x5a4213 | Quiz Results improvements, score visualization, and GP5 Question Detail View |
+-------------------------QUIZ MASTER--------------------------------------------------
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4c0fdee4-665a-470b-8c34-6ec13dddd1e6" />
